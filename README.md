@@ -18,7 +18,7 @@
 
 # Connect with me:
 <p align="left">
-<a href="https://github.com/renanzo2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="renanzo2" height="30" width="40" /></a>
+<a href="https://github.com/Renan-Watanabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Renan-Watanabe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Renan Watanabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Renan Watanabe" height="30" width="40" /></a>
 </p>
 
@@ -27,6 +27,6 @@
 href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Maven-Dark.svg" alt="maven" width="40" height="40"/> </a></p>
 
 # GitHub Stats:![](https://github-readme-stats.vercel.app/api?username=renanzo2theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=renanzo2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=renanzo2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=Renan-Watanabe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Watanabe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
